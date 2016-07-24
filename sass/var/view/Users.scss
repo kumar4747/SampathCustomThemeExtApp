@@ -1,0 +1,13 @@
+@import "config";
+
+#users_header{
+  background-color: $header-color;
+  background-image: -webkit-linear-gradient(top,$header-color,$header-color 45%,$header-color 46%,$header-color 50%,$header-color 51%,$header-color);
+	-webkit-box-shadow : $header-color 0 1px 0 0 inset,$header-color -1px 0 0 0 inset,$header-color 1px 0 0 0 inset;
+}
+
+#users-body{
+  background:$sam-panel-body-background;
+  background-image: -webkit-linear-gradient(top,$sam-panel-body-background,$sam-panel-body-background 45%,$sam-panel-body-background 46%,$sam-panel-body-background 50%,$sam-panel-body-background 51%,$sam-panel-body-background);
+	-webkit-box-shadow : $sam-panel-body-background 0 1px 0 0 inset,$sam-panel-body-background -1px 0 0 0 inset,$sam-panel-body-background 1px 0 0 0 inset;
+}
