@@ -5,18 +5,6 @@
          "username":"kumar4747",
          "email":"email1@test.com",
          "address":"Houston, TX"
-      },
-      {
-        "name":"Sam",
-        "username":"sam123",
-        "email":"email2@test.com",
-        "address":"San Francisco, CA"
-      },
-      {
-        "name":"Kumar",
-        "username":"kumar123",
-        "email":"email3@test.com",
-        "address":"Los Angeles, CA"
       }
    ]
 }
