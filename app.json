@@ -105,7 +105,7 @@
      */
     "js": [
         {
-            "path": "${framework.dir}/build/ext-all-rtl-debug.js"
+            "path": "ext/ext-all.js"
         },
         {
             "path": "app.js",
